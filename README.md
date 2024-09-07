@@ -8,11 +8,11 @@ Mergulhe no mundo do futebol e descubra curiosidades sobre seus times favoritos!
 
 1. **Pesquise:** Digite o nome do clube, da liga ou do jogador que você quer saber mais.
 2. **Explore:** A aplicação busca em nossa base de dados e te mostra todos os detalhes que encontramos, como:
-**Logo do clube**
-**País de origem**
-**Número de Conquistas e as Maiores conquistas**
-**Maior Artilheiro da História do clube, e até mesmo os jogadores que foram revelados por alguns deles.**
-**Deixamos um link que te leva diretamente pra página oficinal do clube, onde você pode acompanhar as últimas notícias sobre ele.**
+I.**Logo do clube**
+II.**País de origem**
+III.**Número de Conquistas e as Maiores conquistas**
+IV.**Maior Artilheiro da História do clube, e até mesmo os jogadores que foram revelados por alguns deles.**
+V.**Deixamos um link que te leva diretamente pra página oficinal do clube, onde você pode acompanhar as últimas notícias sobre ele.**
 
 
 **Como usar:**
@@ -44,6 +44,9 @@ Nossa aplicação utiliza um algoritmo de busca super rápido para encontrar os 
 Entre em contato!
 theus-fp@hotmail.com //
 Whats - 11 985253835
+
+**Link do programa em Vercel**
+https://historias-dos-clubes.vercel.app/
 
 **Recursos:**
 * **GitHub Flavored Markdown:** https://guides.github.com/features/mastering-markdown/
