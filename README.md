@@ -1,4 +1,4 @@
-## ⚽  Uma jornada pelos maiores clubes do mundo!
+## ⚽  Uma jornada pelos maiores clubes do mundo! - (Imersão Dev - Com Google Gemini)
 
 **Descrição:**
 
