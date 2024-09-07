@@ -8,11 +8,11 @@ Mergulhe no mundo do futebol e descubra curiosidades sobre seus times favoritos!
 
 1. **Pesquise:** Digite o nome do clube, da liga ou do jogador que você quer saber mais.
 2. **Explore:** A aplicação busca em nossa base de dados e te mostra todos os detalhes que encontramos, como:
-Logo do clube
-País de origem
-Número de Conquistas e as Maiores conquistas
-Maior Artilheiro da História do clube, e até mesmo os jogadores que foram revelados por alguns
-Deixamo um link que te leva diretamente pra página oficinal do clube, onde você pode acompanhar as últimas notícias sobre ele.
+**Logo do clube**
+**País de origem**
+**Número de Conquistas e as Maiores conquistas**
+**Maior Artilheiro da História do clube, e até mesmo os jogadores que foram revelados por alguns deles.**
+**Deixamos um link que te leva diretamente pra página oficinal do clube, onde você pode acompanhar as últimas notícias sobre ele.**
 
 
 **Como usar:**
