@@ -42,8 +42,8 @@ Nossa aplicação utiliza um algoritmo de busca super rápido para encontrar os 
 
 **Dúvidas?**
 Entre em contato!
-theus-fp@hotmail.com
-whats - 11 985253835
+theus-fp@hotmail.com //
+Whats - 11 985253835
 
 **Recursos:**
 * **GitHub Flavored Markdown:** https://guides.github.com/features/mastering-markdown/
